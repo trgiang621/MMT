@@ -1,0 +1,20 @@
+﻿DijkstraVisualization
+
+
+winexe
+C#
+.cs
+C:\Users\Admin\Documents\Dijkstra MMT\Dijkstra\Dijkstra\DijkstraVisualization\obj\Debug\net6.0-windows\
+DijkstraVisualization
+none
+false
+TRACE;DEBUG;NET;NET6_0;NETCOREAPP
+C:\Users\Admin\Documents\Dijkstra MMT\Dijkstra\Dijkstra\DijkstraVisualization\App.xaml
+7-757623263
+
+59-1226161239
+195-18418009
+Views\AdjacencyListView.xaml;Views\AdjacencyMatrixView.xaml;Views\CameraView.xaml;Views\CostLabelView.xaml;Views\GraphView.xaml;Views\ShellView.xaml;Views\VertexView.xaml;
+
+False
+
